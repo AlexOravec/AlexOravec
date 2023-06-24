@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexOravec
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and UE5
-- 💞️ I’m looking to collaborate on discord bot.
 - 📫 How to reach me: discord: AlinksPro#3322
 
 <!---
